@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">AnyViewDemo</string>
+  <string name="getDataList">bizapp/getlist</string>
+</resources>
